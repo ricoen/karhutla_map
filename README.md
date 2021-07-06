@@ -1,5 +1,5 @@
 # karhutla_map
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Visualization of burned jungle and land area (Hectares) in Indonesia.
 
